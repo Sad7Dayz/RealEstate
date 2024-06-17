@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RealEstate_Dapper_UI.Areas.EstateAgent.Controllers.DashboardController" Collapsed="true">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Areas\EstateAgent\Controllers\DashboardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Areas.EstateAgent.Controllers.LayoutEstateAgentController" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Areas\EstateAgent\Controllers\LayoutEstateAgentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Areas.EstateAgent.Controllers.MyAdvertsController" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAgAAAAAEAAAgAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\EstateAgent\Controllers\MyAdvertsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.AdminController" Collapsed="true">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\AdminController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.BottomGridController" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAACA=</HashCode>
+      <FileName>Controllers\BottomGridController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.CategoryController" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAg=</HashCode>
+      <FileName>Controllers\CategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.DashboardController" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\DashboardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.DefaultController" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAA=</HashCode>
+      <FileName>Controllers\DefaultController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.EmployeeController" Collapsed="true">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAIAAACAgAAAAAAAAAAAAAAIAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\EmployeeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.HomeController" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAIAAAAQAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.LoginController" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.PopularLocationController" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAEAAAAAAAAAAAAAAEAAAAAAAEAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\PopularLocationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.ProductController" Collapsed="true">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ProductController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.ProfileController" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ProfileController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.PropertyController" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAABAAAAAAAAAAAAAABAABAAAAAABAAA=</HashCode>
+      <FileName>Controllers\PropertyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.ServiceController" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAEAAABAA=</HashCode>
+      <FileName>Controllers\ServiceController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.StatisticsController" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\StatisticsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.TestController" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\TestController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.ToDoListController" Collapsed="true">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ToDoListController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Controllers.WhoWeAreController" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\WhoWeAreController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ProductDtos.CreateProductDto" Collapsed="true">
+    <Position X="9.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACQAAAQCgAEAIAAAAAAAAAQAAAAADAQAAAAAAEAA=</HashCode>
+      <FileName>Dtos\ProductDtos\CreateProductDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ProductDtos.ResultLast3ProductWithCategoryDto" Collapsed="true">
+    <Position X="9.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAAQCgAEAIAAAAAAAAACAAAAABAAAAAAAAEAA=</HashCode>
+      <FileName>Dtos\ProductDtos\ResultLast3ProductWithCategoryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ProductDtos.ResultLast5ProductWithCategoryDto" Collapsed="true">
+    <Position X="11" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAAQCAAEAIAAAAAAAAACAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Dtos\ProductDtos\ResultLast5ProductWithCategoryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ProductDtos.ResultProductAdvertListWithCategoryByEmployeeDto" Collapsed="true">
+    <Position X="2.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAQAEAAAAAAAAAKAAAAAMBAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\ProductDtos\ResultProductAdvertListWithCategoryByEmployeeDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ProductDtos.ResultProductDto" Collapsed="true">
+    <Position X="4" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAQAGAAAAAIAAAKAAAAAMBAAAIAAIAAAAAAAA=</HashCode>
+      <FileName>Dtos\ProductDtos\ResultProductDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ProductDtos.ResultProductWithSearchListDto" Collapsed="true">
+    <Position X="5.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACQAAAQAAAEAIAAAAAAAAACAAAAADAQAAAAAAAAA=</HashCode>
+      <FileName>Dtos\ProductDtos\ResultProductWithSearchListDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ProductDtos.UpdateProductDto" Collapsed="true">
+    <Position X="0.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAQAEAAAAAAAAAKAAAAAMBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\ProductDtos\UpdateProductDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.PopularLocationDtos.CreatePopularLocationDto" Collapsed="true">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\PopularLocationDtos\CreatePopularLocationDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.PopularLocationDtos.ResultPopularLocationDto" Collapsed="true">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAKAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\PopularLocationDtos\ResultPopularLocationDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.PopularLocationDtos.UpdatePopularLocationDto" Collapsed="true">
+    <Position X="11" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAKAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\PopularLocationDtos\UpdatePopularLocationDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.PropertyImageDto.PropertyImageDtos" Collapsed="true">
+    <Position X="11" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\PropertyImageDto\PropertyImageDtos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.EmployeeDtos.CreateEmployeeDto" Collapsed="true">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQAAEAAAAAEAAAAAAQAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Dtos\EmployeeDtos\CreateEmployeeDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.EmployeeDtos.GetByIDEmployeeDto" Collapsed="true">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQAAEAAAAAEAAAAAAQAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Dtos\EmployeeDtos\GetByIDEmployeeDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.EmployeeDtos.ResultEmployeeDto" Collapsed="true">
+    <Position X="4" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQAAEAAAAAEAAAAAAQAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Dtos\EmployeeDtos\ResultEmployeeDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.EmployeeDtos.UpdateEmployeeDto" Collapsed="true">
+    <Position X="9.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQAAEAAAAAEAAAAAAQAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Dtos\EmployeeDtos\UpdateEmployeeDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.EstateAgentDtos.ResultEstateAgentDashboardChartDto" Collapsed="true">
+    <Position X="5.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\EstateAgentDtos\ResultEstateAgentDashboardChartDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ToDoListDtos.ResultToDoListDto" Collapsed="true">
+    <Position X="2.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Dtos\ToDoListDtos\ResultToDoListDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.WhoWeAreDtos.CreateWhoWeAreDetailDto" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\WhoWeAreDtos\CreateWhoWeAreDetailDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.WhoWeAreDtos.ResultWhoWeAreDetailDto" Collapsed="true">
+    <Position X="4" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAQAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Dtos\WhoWeAreDtos\ResultWhoWeAreDetailDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.WhoWeAreDtos.UpdateWhoWeAreDetailDto" Collapsed="true">
+    <Position X="4" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAQAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Dtos\WhoWeAreDtos\UpdateWhoWeAreDetailDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.PropertyAmenityDtos.ResultPropertyAmenityByStatusTrueDto" Collapsed="true">
+    <Position X="7.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\PropertyAmenityDtos\ResultPropertyAmenityByStatusTrueDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.BottomGridDtos.CreateBottomGridDto" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Dtos\BottomGridDtos\CreateBottomGridDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.BottomGridDtos.ResultBottomGridDto" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAABAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Dtos\BottomGridDtos\ResultBottomGridDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.BottomGridDtos.UpdateBottomGridDto" Collapsed="true">
+    <Position X="5.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAABAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Dtos\BottomGridDtos\UpdateBottomGridDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.CategoryDtos.CreateCategoryDto" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\CategoryDtos\CreateCategoryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.CategoryDtos.GetByIDCategoryDto" Collapsed="true">
+    <Position X="4" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\CategoryDtos\GetByIDCategoryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.CategoryDtos.ResultCategoryDto" Collapsed="true">
+    <Position X="2.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\CategoryDtos\ResultCategoryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.CategoryDtos.UpdateCategoryDto" Collapsed="true">
+    <Position X="7.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\CategoryDtos\UpdateCategoryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ContactDtos.Last4ContactResultDto" Collapsed="true">
+    <Position X="9.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAACAAAIAAAAQAAAAAAAEAAAAAIAAAAAA=</HashCode>
+      <FileName>Dtos\ContactDtos\Last4ContactResultDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.AppUserDtos.GetAppUserByProductIdDto" Collapsed="true">
+    <Position X="2.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAQAwAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\AppUserDtos\GetAppUserByProductIdDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.MessageDtos.ResultInBoxMessageDto" Collapsed="true">
+    <Position X="7.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAIAAEAQAAAEAAAAEAAAAAAAACAA=</HashCode>
+      <FileName>Dtos\MessageDtos\ResultInBoxMessageDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.LoginDtos.CreateLoginDto" Collapsed="true">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\LoginDtos\CreateLoginDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ServiceDtos.CreateServiceDto" Collapsed="true">
+    <Position X="11" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Dtos\ServiceDtos\CreateServiceDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ServiceDtos.ResultServiceDto" Collapsed="true">
+    <Position X="9.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Dtos\ServiceDtos\ResultServiceDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ServiceDtos.UpdateServiceDto" Collapsed="true">
+    <Position X="2.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Dtos\ServiceDtos\UpdateServiceDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.TestimonialDtos.ResultTestimonialDto" Collapsed="true">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEACAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\TestimonialDtos\ResultTestimonialDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.SubFeatureDtos.ResultSubFeatureDto" Collapsed="true">
+    <Position X="11" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAEAAAAUAAAI=</HashCode>
+      <FileName>Dtos\SubFeatureDtos\ResultSubFeatureDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Dtos.ProductDetailDtos.GetProductDetailByIdDto" Collapsed="true">
+    <Position X="7.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAhAAAACAAAIACAAAIAACAAAAAAACAECAAAAAgAA=</HashCode>
+      <FileName>Dtos\ProductDetailDtos\GetProductDetailByIdDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Models.ApiSettings" Collapsed="true">
+    <Position X="0.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ApiSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Models.JwtResponseModel" Collapsed="true">
+    <Position X="2.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Models\JwtResponseModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.Services.LoginService" Collapsed="true">
+    <Position X="0.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\LoginService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.PropertySingle._PropertyAmenityStatusTrueByPropertyIdComponentPartial" Collapsed="true">
+    <Position X="2.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\PropertySingle\_PropertyAmenityStatusTrueByPropertyIdComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.PropertySingle._PropertyAppUserComponentPartial" Collapsed="true">
+    <Position X="4.25" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\PropertySingle\_PropertyAppUserComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.PropertySingle._PropertySliderComponentPartial" Collapsed="true">
+    <Position X="6" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\PropertySingle\_PropertySliderComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.EstateAgent.EstateAgentNavbar._EstateAgentNavbarMessageComponentPartial" Collapsed="true">
+    <Position X="6" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\EstateAgent\EstateAgentNavbar\_EstateAgentNavbarMessageComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.EstateAgent._EstateAgentDashboardChartComponentPartial" Collapsed="true">
+    <Position X="7.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\EstateAgent\_EstateAgentDashboardChartComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.EstateAgent._EstateAgentDashboardStatisticComponentPartial" Collapsed="true">
+    <Position X="9.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAgAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\EstateAgent\_EstateAgentDashboardStatisticComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.EstateAgent._EstateAgentLast5ProductComponentPartial" Collapsed="true">
+    <Position X="0.75" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAgAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\EstateAgent\_EstateAgentLast5ProductComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.EstateAgent._EstateAgentLayoutSidebarComponentPartial" Collapsed="true">
+    <Position X="2.5" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\EstateAgent\_EstateAgentLayoutSidebarComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.EstateAgent._EstateAgentNavbarComponentPartial" Collapsed="true">
+    <Position X="4.25" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\EstateAgent\_EstateAgentNavbarComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.EstateAgent._EstateAgentSidebarComponentPartial" Collapsed="true">
+    <Position X="7.75" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\EstateAgent\_EstateAgentSidebarComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultBottomGridComponentPartial" Collapsed="true">
+    <Position X="7.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultBottomGridComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultBrandComponentPartial" Collapsed="true">
+    <Position X="9.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultBrandComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultDiscountOfDayComponentPartial" Collapsed="true">
+    <Position X="0.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultDiscountOfDayComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultFeatureComponentPartial" Collapsed="true">
+    <Position X="2.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultFeatureComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultFooterComponentPartial" Collapsed="true">
+    <Position X="4.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultFooterComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultHomePageProductList" Collapsed="true">
+    <Position X="6" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultHomePageProductList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultOurTestimonialComponentPartical" Collapsed="true">
+    <Position X="7.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultOurTestimonialComponentPartical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultProductListExploreCitiesComponentPartial" Collapsed="true">
+    <Position X="9.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultProductListExploreCitiesComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultScriptComponentPartial" Collapsed="true">
+    <Position X="0.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultScriptComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultServicesComponentPartial" Collapsed="true">
+    <Position X="2.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultServicesComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultSubFeatureComponentPartial" Collapsed="true">
+    <Position X="4.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultSubFeatureComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.HomePage._DefaultWhoWeAreComponentPartial" Collapsed="true">
+    <Position X="6" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\HomePage\_DefaultWhoWeAreComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.Dashboard._DashboardLast4ContactListComponentPartial" Collapsed="true">
+    <Position X="0.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\Dashboard\_DashboardLast4ContactListComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.Dashboard._DashboardLast5ProductComponentPartial" Collapsed="true">
+    <Position X="2.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\Dashboard\_DashboardLast5ProductComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.Dashboard._DashboardStatisticsComponentPartial" Collapsed="true">
+    <Position X="4.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\Dashboard\_DashboardStatisticsComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.Dashboard._DashboardToDoListComponentPartial" Collapsed="true">
+    <Position X="6" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\Dashboard\_DashboardToDoListComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.AdminLayout._AdminLayoutFooterComponentPartial" Collapsed="true">
+    <Position X="0.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\AdminLayout\_AdminLayoutFooterComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.AdminLayout._AdminLayoutHeaderComponentPartial" Collapsed="true">
+    <Position X="2.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\AdminLayout\_AdminLayoutHeaderComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.AdminLayout._AdminLayoutNavbarComponentPartial" Collapsed="true">
+    <Position X="4.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\AdminLayout\_AdminLayoutNavbarComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.AdminLayout._AdminLayoutScriptComponentPartial" Collapsed="true">
+    <Position X="6" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\AdminLayout\_AdminLayoutScriptComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.AdminLayout._AdminLayoutSidebarComponentPartial" Collapsed="true">
+    <Position X="7.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\AdminLayout\_AdminLayoutSidebarComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.AdminLayout._AdminLayoutSpinnerComponentPartial" Collapsed="true">
+    <Position X="9.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\AdminLayout\_AdminLayoutSpinnerComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.Layout._HeaderViewComponentPartial" Collapsed="true">
+    <Position X="9.5" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\Layout\_HeaderViewComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_UI.ViewComponents.Layout._NavbarViewComponentPartial" Collapsed="true">
+    <Position X="0.75" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewComponents\Layout\_NavbarViewComponentPartial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RealEstate_Dapper_UI.Services.ILoginService" Collapsed="true">
+    <Position X="0.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ILoginService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RealEstate_Dapper_Api.Repositories.ProductRepository.ProductRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAgAAABAABBAAgAAAAAAAAAAAACBAAAQEABIAAAgA=</HashCode>
+      <FileName>Repositories\ProductRepository\ProductRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.ServiceRepository.ServiceRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAAAAAAAAAAAAAAAAAAAAAAEAAABEA=</HashCode>
+      <FileName>Repositories\ServiceRepository\ServiceRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.PopularLocationRepository.PopularLocationRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAFAABAAAAAAAAAAAEAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\PopularLocationRepository\PopularLocationRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.EmployeeRepositories.EmployeeRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAhACAAAAAAEAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\EmployeeRepositories\EmployeeRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.EstateAgentReosutories.DashboardRepositories.ChartRepositories.ChartRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Repositories\EstateAgentReosutories\DashboardRepositories\ChartRepositories\ChartRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.EstateAgentReosutories.DashboardRepositories.LastProductsRepositories.Last5ProductRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Repositories\EstateAgentReosutories\DashboardRepositories\LastProductsRepositories\Last5ProductRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.EstateAgentReosutories.DashboardRepositories.StatisticRepositories.StatisticRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAJBAAAAAQAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\EstateAgentReosutories\DashboardRepositories\StatisticRepositories\StatisticRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.SubFeatureRepositories.SubFeatureRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SubFeatureRepositories\SubFeatureRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.TestimonialRepository.TestimonialRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Repositories\TestimonialRepository\TestimonialRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.ContactRepositories.ContactRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAACAAAABAAMAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ContactRepositories\ContactRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.PropertyAmenityRepositories.PropertyAmenityRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\PropertyAmenityRepositories\PropertyAmenityRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.ProductImageRepositories.ProductImageRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ProductImageRepositories\ProductImageRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.BottomGridRepositories.BottomGridRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAABAAAAAAQAAAAAAAAAAAAAIAAAAAAAiA=</HashCode>
+      <FileName>Repositories\BottomGridRepositories\BottomGridRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.StatisticsRepositories.StatisticsRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAIABAABEAYAAAgQgIAAAAAAAAABAQAAAIAAJA=</HashCode>
+      <FileName>Repositories\StatisticsRepositories\StatisticsRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.CategoryRepository.CategoryRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAICBAAAAAAAAAAAQAAAgAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Repositories\CategoryRepository\CategoryRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.MessageRepositories.MessageRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\MessageRepositories\MessageRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.ToDoListRepositories.ToDoListRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAABAAgAAAAAAAAAAIAAAAAAAAAACAgAAA=</HashCode>
+      <FileName>Repositories\ToDoListRepositories\ToDoListRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.WhoWeAreRepository.WhoWeAreDetailRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQAAAARAAQAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Repositories\WhoWeAreRepository\WhoWeAreDetailRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Repositories.AppUserRepositories.AppUserRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\AppUserRepositories\AppUserRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Models.DataContext.Context" Collapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAEAAAAAAAA=</HashCode>
+      <FileName>Models\DataContext\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.AppUsersController" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\AppUsersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.BottomGridsController" Collapsed="true">
+    <Position X="2.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAIAAAAAAAiA=</HashCode>
+      <FileName>Controllers\BottomGridsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.CategoriesController" Collapsed="true">
+    <Position X="4" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAICAAAAAAAAAAAAAAAAgAACAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\CategoriesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.ContactsController" Collapsed="true">
+    <Position X="5.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ContactsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.EmployeesController" Collapsed="true">
+    <Position X="7.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAIAgACAAAAAAAAAAAAAAAAIACAAAAAAAAA=</HashCode>
+      <FileName>Controllers\EmployeesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.EstateAgentChartController" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Controllers\EstateAgentChartController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.EstateAgentDashboardStatisticController" Collapsed="true">
+    <Position X="2.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAJAAAAAAQAwAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\EstateAgentDashboardStatisticController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.EstateAgentLastProductsController" Collapsed="true">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Controllers\EstateAgentLastProductsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.LoginController" Collapsed="true">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.MessageController" Collapsed="true">
+    <Position X="7.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\MessageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.PopularLocationsController" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAFAAAAAAAAAAAAgAEAAAAACAEAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\PopularLocationsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.ProductDetailsController" Collapsed="true">
+    <Position X="2.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ProductDetailsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.ProductImagesController" Collapsed="true">
+    <Position X="4" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ProductImagesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.ProductsController" Collapsed="true">
+    <Position X="5.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAgAAAIAAAAAAgAAAAAAAAAAUACBAAAQAAAIAACAA=</HashCode>
+      <FileName>Controllers\ProductsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.PropertyAmenitiesController" Collapsed="true">
+    <Position X="7.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\PropertyAmenitiesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.ServicesController" Collapsed="true">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAEAAAJEA=</HashCode>
+      <FileName>Controllers\ServicesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.StatisticsController" Collapsed="true">
+    <Position X="2.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAIABAAAEAYAAAgQgIAAAEAAAAABAQAAAIAAJA=</HashCode>
+      <FileName>Controllers\StatisticsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.SubFeaturesController" Collapsed="true">
+    <Position X="4" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\SubFeaturesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.TestimonialsController" Collapsed="true">
+    <Position X="5.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\TestimonialsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.ToDoListsController" Collapsed="true">
+    <Position X="7.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ToDoListsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.TokenCreateController" Collapsed="true">
+    <Position X="0.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\TokenCreateController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.WeatherForecastController" Collapsed="true">
+    <Position X="2.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEBAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\WeatherForecastController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Controllers.WhoWeAreDetailController" Collapsed="true">
+    <Position X="4" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQAAAAQAAQAAAAAAAAAAAAAAAAAAABAAAEAAA=</HashCode>
+      <FileName>Controllers\WhoWeAreDetailController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate_Dapper_Api.Containers.Extensions" Collapsed="true">
+    <Position X="12.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Containers\Extensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.ProductRepository.IProductRepository" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAgAAABAABAAAgAAAAAAAAAAAACBAAAQEABIAAAgA=</HashCode>
+      <FileName>Repositories\ProductRepository\IProductRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.ServiceRepository.IServiceRepository" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABEA=</HashCode>
+      <FileName>Repositories\ServiceRepository\IServiceRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.PopularLocationRepository.IPopularLocationRepository" Collapsed="true">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAFAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\PopularLocationRepository\IPopularLocationRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.EmployeeRepositories.IEmployeeRepository" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAgACAAAAAAEAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\EmployeeRepositories\IEmployeeRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.EstateAgentReosutories.DashboardRepositories.ChartRepositories.IChartRepository" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Repositories\EstateAgentReosutories\DashboardRepositories\ChartRepositories\IChartRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.EstateAgentReosutories.DashboardRepositories.LastProductsRepositories.ILast5ProductRepository" Collapsed="true">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Repositories\EstateAgentReosutories\DashboardRepositories\LastProductsRepositories\ILast5ProductRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.EstateAgentReosutories.DashboardRepositories.StatisticRepositories.IStatisticRepository" Collapsed="true">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAJAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\EstateAgentReosutories\DashboardRepositories\StatisticRepositories\IStatisticRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.SubFeatureRepositories.ISubFeatureRepository" Collapsed="true">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SubFeatureRepositories\ISubFeatureRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.TestimonialRepository.ITestimonialRepository" Collapsed="true">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Repositories\TestimonialRepository\ITestimonialRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.ContactRepositories.IContactRepository" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAACAAAAAAAMAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ContactRepositories\IContactRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.PropertyAmenityRepositories.IPropertyAmenityRepository" Collapsed="true">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\PropertyAmenityRepositories\IPropertyAmenityRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.ProductImageRepositories.IProductImageRepository" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ProductImageRepositories\IProductImageRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.BottomGridRepositories.IBottomGridRepository" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAiA=</HashCode>
+      <FileName>Repositories\BottomGridRepositories\IBottomGridRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.StatisticsRepositories.IStatisticsRepository" Collapsed="true">
+    <Position X="9.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAIABAAAEAYAAAgQgIAAAAAAAAABAQAAAIAAJA=</HashCode>
+      <FileName>Repositories\StatisticsRepositories\IStatisticsRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.CategoryRepository.ICategoryRepository" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAICAAAAAAAAAAAAQAAAgAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Repositories\CategoryRepository\ICategoryRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.MessageRepositories.IMessageRepository" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\MessageRepositories\IMessageRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.ToDoListRepositories.IToDoListRepository" Collapsed="true">
+    <Position X="6.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAgAAAAAAAAAAIAAAAAAAAAACAgAAA=</HashCode>
+      <FileName>Repositories\ToDoListRepositories\IToDoListRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.WhoWeAreRepository.IWhoWeAreDetailRepository" Collapsed="true">
+    <Position X="8" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQAAAAQAAQAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Repositories\WhoWeAreRepository\IWhoWeAreDetailRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealEstate_Dapper_Api.Repositories.AppUserRepositories.IAppUserRepository" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\AppUserRepositories\IAppUserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="RealEstate_Dapper_Api.Enums.RolesType" Collapsed="true">
+    <Position X="14.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAEAAQAAAAAIBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\RolesType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
